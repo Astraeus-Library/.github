@@ -5,3 +5,6 @@
 # Astraeus-I
  A multipurpose board for satellites that includes the necessary sensors, modules and a MicroMod processor of your choice.
 
+
+## Project Interface
+![ASTRAEUS I Project Interface_page-0001](https://github.com/Astraeus-I/.github/assets/50222631/e72cd1d7-62ca-411a-befa-5a0985620a11)
