@@ -1,10 +1,22 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/50222631/208964220-da010cc3-fbd8-45c3-83e3-81f75efb28f3.png" />
-</p>
+<div align="center">
+<img height="250" src="https://user-images.githubusercontent.com/50222631/208964220-da010cc3-fbd8-45c3-83e3-81f75efb28f3.png">
+<br />
+<br />
 
-# Astraeus-I
- A multipurpose board for satellites that includes the necessary sensors, modules and a MicroMod processor of your choice.
+```
+Avionics Development Board
+---
+🔩 Modular 🪶 Lightweight 👥 User Friendly
+```
+<br />
+</div>
 
+<div align="center">
 
-## Project Interface
-![ASTRAEUS I Project Interface_page-0001](https://github.com/Astraeus-I/.github/assets/50222631/e72cd1d7-62ca-411a-befa-5a0985620a11)
+<h3>
+<a href="https://astraeus-i.github.io/">📖 Documentation</a>
+</h3>
+
+[![Discord](https://img.shields.io/discord/800515757871726622?color=7389D8&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/7H8FzkXEgZ)
+
+</div>
