@@ -17,6 +17,8 @@ Avionics Development Board
 <a href="https://astraeus-i.github.io/">📖 Documentation</a>
 </h3>
 
-[![Discord](https://img.shields.io/discord/800515757871726622?color=7389D8&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/7H8FzkXEgZ)
+
+
+[![Discord](https://img.shields.io/discord/1156678357656809503?color=7389D8&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/YOUR_INVITE_LINK_HERE)
 
 </div>
