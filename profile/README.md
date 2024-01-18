@@ -19,6 +19,6 @@ Avionics Development Board
 
 
 
-[![Discord](https://img.shields.io/discord/1156678357656809503?color=7389D8&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/YOUR_INVITE_LINK_HERE)
+[![Discord](https://img.shields.io/discord/1156678357656809503?color=7389D8&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/zHZ7zRTV3C)
 
 </div>
