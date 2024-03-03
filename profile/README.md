@@ -14,7 +14,7 @@ Avionics Development Board
 <div align="center">
 
 <h3>
-<a href="https://astraeus-i.github.io/">📖 Documentation</a>
+<a href="https://astraeus-library.github.io/">📖 Documentation</a>
 </h3>
 
 
